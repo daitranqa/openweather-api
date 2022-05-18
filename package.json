@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/daitranqa/openweather-api.git",
   "author": "<dai.tranqa@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "jest-rest-preset": "^0.0.4",
+    "prettier": "2.6.2"
+  }
 }
