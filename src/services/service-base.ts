@@ -1,4 +1,0 @@
-import 
-class ServiceBase {
-
-}
