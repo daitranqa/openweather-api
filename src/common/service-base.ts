@@ -1,3 +1,1 @@
-function GET(params:type) {
-    
-}
+import {environment} from '../../index'
